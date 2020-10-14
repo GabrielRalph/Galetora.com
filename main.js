@@ -1,4 +1,4 @@
-var list = ['AMME2500', 'COMP2123', 'FASHION', 'VISUALS'];
+var list = ['AMME2500', 'COMP2123', 'MTRX3700', 'VISUALS', 'DRAW', 'INVOICE', 'EMB'];
 var html = ''
 
 for(var i in list){
